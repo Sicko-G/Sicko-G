@@ -113,5 +113,3 @@
 <img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
 
 -------
-Credits: [nitindahiya199](https://github.com/nitindahiya199)
-Last Edited on: 01-05-2024
